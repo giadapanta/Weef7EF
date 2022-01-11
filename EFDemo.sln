@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFDemo", "EFDemo\EFDemo.csproj", "{C50786E0-9412-4796-9E02-78B695817D4B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogPostDataNotation", "BlogPostDataNotation\BlogPostDataNotation.csproj", "{96CA5007-AFE7-4724-A39F-C39FB9D2D092}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataNotationCar", "DataNotationCar\DataNotationCar.csproj", "{9F509668-CA85-496C-B370-4A0EDFAEA5AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentAPIDemo", "FluentAPIDemo\FluentAPIDemo.csproj", "{16050FE3-F7DD-4276-9F5F-FA0C74BCE271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgenziaViaggi2", "AgenziaViaggi2\AgenziaViaggi2.csproj", "{B11B8334-35B3-456B-A2AB-F241B2BFECC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarFluentAPI", "CarFluentAPI\CarFluentAPI.csproj", "{4DB789A0-2A1D-4B11-9361-14EBD22635E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgenziaViaggiFluentAPI", "AgenziaViaggiFluentAPI\AgenziaViaggiFluentAPI.csproj", "{CCFC501A-B6A1-494B-953B-B08CE161B115}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C50786E0-9412-4796-9E02-78B695817D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C50786E0-9412-4796-9E02-78B695817D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C50786E0-9412-4796-9E02-78B695817D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C50786E0-9412-4796-9E02-78B695817D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96CA5007-AFE7-4724-A39F-C39FB9D2D092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96CA5007-AFE7-4724-A39F-C39FB9D2D092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96CA5007-AFE7-4724-A39F-C39FB9D2D092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96CA5007-AFE7-4724-A39F-C39FB9D2D092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F509668-CA85-496C-B370-4A0EDFAEA5AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F509668-CA85-496C-B370-4A0EDFAEA5AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F509668-CA85-496C-B370-4A0EDFAEA5AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F509668-CA85-496C-B370-4A0EDFAEA5AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16050FE3-F7DD-4276-9F5F-FA0C74BCE271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16050FE3-F7DD-4276-9F5F-FA0C74BCE271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16050FE3-F7DD-4276-9F5F-FA0C74BCE271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16050FE3-F7DD-4276-9F5F-FA0C74BCE271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B11B8334-35B3-456B-A2AB-F241B2BFECC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11B8334-35B3-456B-A2AB-F241B2BFECC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11B8334-35B3-456B-A2AB-F241B2BFECC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11B8334-35B3-456B-A2AB-F241B2BFECC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DB789A0-2A1D-4B11-9361-14EBD22635E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB789A0-2A1D-4B11-9361-14EBD22635E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB789A0-2A1D-4B11-9361-14EBD22635E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB789A0-2A1D-4B11-9361-14EBD22635E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCFC501A-B6A1-494B-953B-B08CE161B115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCFC501A-B6A1-494B-953B-B08CE161B115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCFC501A-B6A1-494B-953B-B08CE161B115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCFC501A-B6A1-494B-953B-B08CE161B115}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {644DB9FF-8992-4680-881F-A749375DB335}
+	EndGlobalSection
+EndGlobal
